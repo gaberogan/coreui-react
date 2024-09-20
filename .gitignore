@@ -12,9 +12,10 @@ package-lock.json
 /coverage
 
 # production
-/es
-/lib
-/umd
+# Commented out so we can deploy on GitHub
+# /es
+# /lib
+# /umd
 
 # misc
 .DS_Store

@@ -16,11 +16,13 @@
     }
   ],
   "homepage": "https://coreui.io",
-  "main": "src/index.js",
-  "module": "src/index.js",
+  "main": "lib/index.js",
+  "module": "es/index.js",
   "files": [
     "css/",
-    "src/",
+    "es/",
+    "lib/",
+    "umd/",
     "README.md"
   ],
   "scripts": {
